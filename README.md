@@ -11,6 +11,7 @@ This project is a C++ application built with Qt that solves a labyrinth using th
 - Represent the labyrinth as a graph
 - Solve the labyrinth using BFS
 - Visualize the solution in both graph and labyrinth views
+- Animated labyrinth solution
 - Interactive GUI using Qt
 - Adjustable visualization settings
 
